@@ -4,3 +4,6 @@
 [submodule "cookbooks/wx-cc"]
 	path = cookbooks/wx-cc
 	url = https://github.com/letoke/wx-cc-cookbook.git
+[submodule "cookbooks/redisio"]
+	path = cookbooks/redisio
+	url = https://github.com/brianbianco/redisio.git
