@@ -1,0 +1,6 @@
+[submodule "cookbooks/nodejs"]
+	path = cookbooks/nodejs
+	url = https://github.com/mdxp/nodejs-cookbook.git
+[submodule "cookbooks/wx-cc"]
+	path = cookbooks/wx-cc
+	url = https://github.com/letoke/wx-cc-cookbook.git
